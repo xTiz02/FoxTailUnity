@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Piero\\unity\\FoxGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13D2FAA6-F760-5A25-D026-63A3089C2583}|Assembly-CSharp.csproj|c:\\users\\piero\\unity\\foxgame\\assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13D2FAA6-F760-5A25-D026-63A3089C2583}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13D2FAA6-F760-5A25-D026-63A3089C2583}|Assembly-CSharp.csproj|C:\\Users\\Piero\\unity\\FoxGame\\assets\\scripts\\bosstankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D2FAA6-F760-5A25-D026-63A3089C2583}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bosstankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D2FAA6-F760-5A25-D026-63A3089C2583}|Assembly-CSharp.csproj|c:\\users\\piero\\unity\\foxgame\\assets\\scripts\\bossactivator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D2FAA6-F760-5A25-D026-63A3089C2583}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossactivator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D2FAA6-F760-5A25-D026-63A3089C2583}|Assembly-CSharp.csproj|c:\\users\\piero\\unity\\foxgame\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D2FAA6-F760-5A25-D026-63A3089C2583}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D2FAA6-F760-5A25-D026-63A3089C2583}|Assembly-CSharp.csproj|C:\\Users\\Piero\\unity\\FoxGame\\assets\\scripts\\bosstankmine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D2FAA6-F760-5A25-D026-63A3089C2583}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bosstankmine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerScript.cs",
-              "DocumentMoniker": "C:\\Users\\Piero\\unity\\FoxGame\\Assets\\scripts\\PlayerScript.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerScript.cs",
-              "ToolTip": "C:\\Users\\Piero\\unity\\FoxGame\\Assets\\scripts\\PlayerScript.cs",
-              "RelativeToolTip": "Assets\\scripts\\PlayerScript.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BossActivator.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\unity\\FoxGame\\Assets\\scripts\\BossActivator.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\BossActivator.cs",
+              "ToolTip": "C:\\Users\\Piero\\unity\\FoxGame\\Assets\\scripts\\BossActivator.cs",
+              "RelativeToolTip": "Assets\\scripts\\BossActivator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T22:45:21.873Z",
+              "WhenOpened": "2024-11-18T08:37:51.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\unity\\FoxGame\\Assets\\scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\Piero\\unity\\FoxGame\\Assets\\scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\AudioManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:33:58.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BossTankMine.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\unity\\FoxGame\\Assets\\scripts\\BossTankMine.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\BossTankMine.cs",
+              "ToolTip": "C:\\Users\\Piero\\unity\\FoxGame\\Assets\\scripts\\BossTankMine.cs",
+              "RelativeToolTip": "Assets\\scripts\\BossTankMine.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA+wBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:07:42.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BossTankController.cs",
+              "DocumentMoniker": "C:\\Users\\Piero\\unity\\FoxGame\\Assets\\scripts\\BossTankController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\BossTankController.cs",
+              "ToolTip": "C:\\Users\\Piero\\unity\\FoxGame\\Assets\\scripts\\BossTankController.cs",
+              "RelativeToolTip": "Assets\\scripts\\BossTankController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:00:28.817Z",
               "EditorCaption": ""
             }
           ]
