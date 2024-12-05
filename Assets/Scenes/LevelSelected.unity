@@ -6405,11 +6405,11 @@ PrefabInstance:
       objectReference: {fileID: 757525620}
     - target: {fileID: 7760817890883000268, guid: 9735c9625d667404f91a47cc5618755e, type: 3}
       propertyPath: levelToLoad
-      value: 
+      value: Test22
       objectReference: {fileID: 0}
     - target: {fileID: 7760817890883000268, guid: 9735c9625d667404f91a47cc5618755e, type: 3}
       propertyPath: levelToCheck
-      value: 
+      value: Test21
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7654,7 +7654,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7760817890883000268, guid: 9735c9625d667404f91a47cc5618755e, type: 3}
       propertyPath: levelToCheck
-      value: Test22
+      value: Test2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9614,11 +9614,11 @@ PrefabInstance:
       objectReference: {fileID: 854602970}
     - target: {fileID: 7760817890883000268, guid: 9735c9625d667404f91a47cc5618755e, type: 3}
       propertyPath: levelToLoad
-      value: Test22
+      value: Test2
       objectReference: {fileID: 0}
     - target: {fileID: 7760817890883000268, guid: 9735c9625d667404f91a47cc5618755e, type: 3}
       propertyPath: levelToCheck
-      value: Test22
+      value: Test2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
